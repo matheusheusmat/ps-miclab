@@ -12,13 +12,18 @@ Para baixar e configurar o PACs OrthanC, executei o comando no bash:<br>
 
 `docker pull orthancteam/orthanc`<br>
 
-Aprendi que "orthanc" se trata de uma imagem no Docker. Depois, rodei no terminal:<br>
+Aprendi que "orthanc" se trata de uma imagem pronta do OrthanC-server no Docker. Depois, rodei no terminal:<br>
 
 `docker run -p 4242:4242 -p 8042:8042 --rm orthancteam/orthanc`<br>
 
 Assim, acessando a porta 8042 no navegador, http://localhost:8042, executei a interface do PACs OrthanC.
 
 ### Tarefa 2
+Ao acessar a interface do OrthanC via navegador e clicar em "All Studies", não há estudos na lista. Precisamos adicionar os arquivos .dcm usando um script Python que usa a API REST.<br>
+
+Aprendi, nessa parte, que os parâmetros `ORTHANC_URL`, `ORTHANC_USERNAME`, `ORTHANC_PASSWORD`, `DICOM_DIRECTORY` fazem parte da API REST e devem ser utilizadas para definir, respectivamente, para onde fazer o upload das imagens, o nome e a senha para acesso à plataforma, e o diretório local onde cada estudo localiza-se. O restante do código percorre os arquivos DICOM e os envia ao OrthanC-server, por meio de uma requisição.
+
+
 
 
 
