@@ -25,6 +25,7 @@ Aprendi, nessa parte, que os parâmetros `ORTHANC_URL`, `ORTHANC_USERNAME`, `ORT
 
 Após esse passo, cinco estudos aparecem na aba "All Studies".
 
+### Tarefa 3
 
 
 
