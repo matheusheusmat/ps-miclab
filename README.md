@@ -23,7 +23,7 @@ Ao acessar a interface do OrthanC via navegador e clicar em "All Studies", não 
 
 Aprendi, nessa parte, que os parâmetros `ORTHANC_URL`, `ORTHANC_USERNAME`, `ORTHANC_PASSWORD`, `DICOM_DIRECTORY` fazem parte da API REST e devem ser utilizadas para definir, respectivamente, para onde fazer o upload das imagens, o nome e a senha para acesso à plataforma, e o diretório local onde cada estudo localiza-se. O restante do código percorre os arquivos DICOM e os envia ao OrthanC-server, por meio de uma requisição.<br>
 
-Após esse passo, cinco estudos aparecem na aba "All Studies".
+Ao executarmos `python3 send_dicom.py`, cinco estudos aparecem na aba "All Studies".
 
 ### Tarefa 3
 
