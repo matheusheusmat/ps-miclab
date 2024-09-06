@@ -3,7 +3,7 @@
 **E-mail: m247277@dac.unicamp.br**<br><br>
 Prezada Prof. Letícia Rittner,<br>
 
-Consegui resolver os desafios da fase do processo seletivo. Minha maior dificuldade foi por conta de utilizar o Docker, uma plataforma que nunca utilizei antes e, por isso, pode ser que o arquivo Dockerfile apresente problemas. Peço desculpas por isso<br>
+Consegui resolver os desafios da fase do processo seletivo. Não consegui colocar no repositório a pasta "dicom_samples", pois acusa-se que o nome das pastas e arquivos são grandes demais. Minha maior dificuldade foi por conta de utilizar o Docker, uma plataforma que nunca utilizei antes e, por isso, pode ser que o arquivo Dockerfile apresente problemas. Peço desculpas por isso.<br>
 
 Apesar disso, com auxílio do Microsoft Copilot e do ChatGPT, consegui baixar o Docker Desktop e, utilizando WSL no VSCode, comecei a resolução das tarefas. <br>
 
