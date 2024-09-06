@@ -5,7 +5,7 @@ Prezada Prof. Letícia Rittner,<br>
 
 Consegui resolver os desafios da fase do processo seletivo. Minha maior dificuldade foi por conta de utilizar o Docker, uma plataforma que nunca utilizei antes e, por isso, pode ser que o arquivo Dockerfile apresente problemas. Peço desculpas por isso<br>
 
-Apesar disso, com auxílio da ferramenta de IA Microsoft Copilot, consegui baixar o Docker Desktop e, utilizando WSL no VSCode, comecei a resolução das tarefas. <br>
+Apesar disso, com auxílio do Microsoft Copilot e do ChatGPT, consegui baixar o Docker Desktop e, utilizando WSL no VSCode, comecei a resolução das tarefas. <br>
 
 ### Tarefa 1
 Para baixar e configurar o PACs OrthanC, executei o comando no bash:<br>
