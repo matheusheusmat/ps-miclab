@@ -1,0 +1,20 @@
+{
+    "Atelectasis": 0.5025402307510376,
+    "Consolidation": 0.336744487285614,
+    "Infiltration": 0.514438807964325,
+    "Pneumothorax": 0.00971992127597332,
+    "Edema": 0.2085178941488266,
+    "Emphysema": 0.5042178630828857,
+    "Fibrosis": 0.03240909427404404,
+    "Effusion": 0.08938432484865189,
+    "Pneumonia": 0.4258822500705719,
+    "Pleural_Thickening": 0.1072225496172905,
+    "Cardiomegaly": 0.5922582149505615,
+    "Nodule": 0.3700636923313141,
+    "Mass": 0.3362816870212555,
+    "Hernia": 0.4294910132884979,
+    "Lung Lesion": 0.5313543677330017,
+    "Fracture": 0.5234967470169067,
+    "Lung Opacity": 0.7384625673294067,
+    "Enlarged Cardiomediastinum": 0.500622034072876
+}
